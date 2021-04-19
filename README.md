@@ -5,8 +5,8 @@ This is a draft website for Info Viz!
 
 <h2>Vega-lite</h2>
 
-<iframe width="100%" height="579" frameborder="0" 
-src="https://observablehq.com/embed/@amandakochak/roller-coaster-assignment-copy?cells=myviz"></iframe>
+<iframe width="100%" height="1073" frameborder="0"
+  src="https://observablehq.com/embed/@info247-spring21/roller-coaster-assignment?cells=myviz"></iframe>
 
 <h2>Tableau</h2>
 
@@ -15,10 +15,5 @@ src="https://observablehq.com/embed/@amandakochak/roller-coaster-assignment-copy
 <h2>Images</h2>
 
 <img src="infographic_AmandaKochak.png">
-
-<h2>D3</h2>
-
-<iframe width="100%" height="384" frameborder="0"
-  src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/4?cells=justNodesAndLabelsVertical"></iframe>
 
 </html>
